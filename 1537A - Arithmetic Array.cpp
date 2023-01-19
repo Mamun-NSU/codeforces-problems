@@ -17,6 +17,7 @@ int main()
             cin >> a[i];
             k += a[i];
         }
+        
 
         if (k == n)
         {
