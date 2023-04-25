@@ -4,6 +4,7 @@ int main()
 {
     int t;
     cin >> t;
+    // This while loop will check the test cases
     while (t--)
     {
         long long n, x;
